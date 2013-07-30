@@ -16,7 +16,8 @@ recipes:
 node_attributes:
   rbenv:
     rubies:
-      1.9.3-p362
+      - 1.9.3-p362
+      - 2.0.0-p247
     default_ruby: 1.9.3-p362
   bast_it:
     enabled:

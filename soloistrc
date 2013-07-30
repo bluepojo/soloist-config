@@ -6,13 +6,10 @@ recipes:
 - pivotal_workstation::sizeup
 - pivotal_workstation::iterm2
 - pivotal_workstation::java
-- sprout-osx-apps::1password
 - sprout-osx-apps::vlc
 - sprout-osx-apps::adium
 - sprout-osx-apps::skype
 - pivotal_workstation::homebrew
-- sprout-osx-apps::zsh
-- pivotal_workstation::oh_my_zsh
 node_attributes:
   rbenv:
     rubies:

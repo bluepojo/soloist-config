@@ -1,6 +1,7 @@
 recipes:
 - pivotal_workstation::create_var_chef_cache
-- pivotal_workstation::homebrew
+- sprout-osx-base::homebrew
+- pivotal_workstation::git
 - sprout-osx-apps::alfred
 - sprout-osx-apps::chrome
 - sprout-osx-apps::dropbox
